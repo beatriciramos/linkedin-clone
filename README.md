@@ -2,13 +2,7 @@
 UI Clone - LinkedIn Feed
 </h1>
 
-<p align="center">Responsive LinkedIn Feed UI clone for study purposes.</p>
-
-<p align="center">
-  <a href="https://github.com/rocketseat-content/youtube-clone-linkedin/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-linkedin?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
-  </a>
-</p>
+<p align="center">Responsive Linkedin Feed UI clone using Shimmer Effect with ReactJS for study purposes.</p>
 
 <hr>
 

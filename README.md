@@ -3,7 +3,6 @@ UI Clone - LinkedIn Feed
 </h1>
 
 <p align="center">Responsive LinkedIn Feed UI clone for study purposes.</p>
-<p align="center">Click <a href="https://rocketseat-clone-linkedin.netlify.app/">here</a> to live preview.</p>
 
 <p align="center">
   <a href="https://github.com/rocketseat-content/youtube-clone-linkedin/graphs/contributors">
@@ -15,7 +14,7 @@ UI Clone - LinkedIn Feed
 
 ## Participants
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/beatriciramos)
+[<img src="https://github.com/beatriciramos.png" width="75px;"/>](https://github.com/beatriciramos)
 
 [Beatrici Ramos](https://github.com/beatriciramos)
 
